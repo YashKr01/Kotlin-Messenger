@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="colorPrimary">#425C59</color>
-    <color name="colorAccent">#FFCEA3</color>
-    <color name="black">#000000</color>
-    <color name="white">#ffffff</color>
-    <color name="transparent">#00000000</color>
-    <color name="edittextColor">#DDDDDD</color>
-    <color name="grey">#AAAAAA</color>
-
-    <item name="cardBackground" type="color">#f6f6f6</item>
-    <color name="textColor">#999DA4</color>
+    <color name="colorPrimary">#363030</color>
+    <color name="colorAccent">#FBAE49</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#DD2B2B</color>
+    <color name="colorHint">#928B8B</color>
+    <color name="colorDarkGrey">#363030</color>
+    <color name="colorGrey">#645D5D</color>
 
 </resources>
