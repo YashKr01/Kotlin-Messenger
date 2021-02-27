@@ -21,6 +21,6 @@
 
 # AdobeXD Design
 
- ![](Images/ChatAppUI.PNG)
+ ![](Images/appui.PNG)
  
  :point_up_2: **Above UI/UX is designed by me using AdobexD, this design and theme will be followed in implementation of the project, however minor changes can be expected in the final product** :sweat_smile: 
