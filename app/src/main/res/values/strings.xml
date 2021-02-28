@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Messenger</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_mobile_number_for_verification">Enter your mobile number for verification</string>
+    <string name="enter_your_number">Enter your Number</string>
+    <string name="generate_otp">GENERATE OTP</string>
+    <string name="enter_otp">ENTER OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="enter_the_otp_sent_to_your_phone_number">Enter the OTP sent to your phone number</string>
+    <string name="_9599xxxxxx">9599xxxxxx</string>
+    <string name="delete_account">DELETE ACCOUNT</string>
+    <string name="john_doe">John Doe</string>
+    <string name="hey_there_i_m_using_messenger">Hey There, I\'m using Messenger</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="next">NEXT</string>
+    <string name="create_your_profile">CREATE YOUR PROFILE</string>
 </resources>
